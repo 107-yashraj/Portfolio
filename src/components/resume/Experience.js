@@ -16,22 +16,22 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Sr. Software Engineer"
-            subTitle="Google Out Tech - (2017 - Present)"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            title="Problem Solvind & Software Engineering"
+            subTitle="Programmer (2023 - Present)"
+            result="INDIA"
+            des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit. "
           />
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (2012 - 2016)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            title="Full Stack Developer & UI / Designer"
+            subTitle="Apple Developer Team - (2022 - 2023)"
+            result="INDIA"
+            des="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
           />
           <ResumeCard
             title="Front-end Developer"
-            subTitle="Nike - (2020 - 2011)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            subTitle="Udemy (2021 - 2022)"
+            result="INDIA"
+            des="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
           />
         </div>
       </div>
