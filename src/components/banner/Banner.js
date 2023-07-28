@@ -13,7 +13,7 @@ const Banner = () => {
       });
 
   return (
-    <section id='home' className="w-full  py-20  flex  border-b-[1px] border-b-gray-600 ">
+    <section id='home' className="w-full pt-10 pb-20 flex flex-col gap-10 xl:gap-0 lgl:flex-row items-center font-titleFont  border-b-[1px] border-b-gray-600 ">
       
       <div className="w-full lgl:w-1/2 flex flex-col gap-20">
       <div className="flex flex-col gap-5">
@@ -78,7 +78,7 @@ const Banner = () => {
 
     <div className="w-full lgl:w-1/2 flex justify-center items-center reletive">
       <img
-        className="absolute bottom-[70px] lgl:top-[100px] w-[300px] h-[350px] lgl:w-[420px] lgl:h-[530px] z-[1] object-cover object-center "
+        className="absolute  lgl:top-[100px] w-[300px] h-[300px] lgl:w-[420px] lgl:h-[530px] z-[1] object-cover object-center "
         src={bannerImg}
         alt="bannerImg"
       />

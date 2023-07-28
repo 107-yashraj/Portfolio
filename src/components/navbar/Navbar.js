@@ -10,8 +10,8 @@ const Navbar = () => {
         <h1  >Void</h1>
       </div>
 
-      <div className='  ' >
-    <ul className='flex items-center gap-10'>
+      <div className=' ' >
+    <ul className='md:flex items-center gap-8 lg:gap-10 hidden '>
     {
     navLinksdata.map(({ _id, title, link }) => (
         <li  className="text-base w-max font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor  duration-300 after: "key={_id}>
